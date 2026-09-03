@@ -1,0 +1,28 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Saved models / large outputs
+*.h5
+*.keras
+*.joblib
+*.pkl
+outputs/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Scratch
+_*.py
+
+# Local-only working files (kept on disk, never committed)
+graph.txt
+Estimation_of_Tropospheric_Ozone_Concentration*.ipynb
